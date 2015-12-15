@@ -1,3 +1,5 @@
+#licensed under the 
+
 this is experimental script doc
 
 #all rights reserved
